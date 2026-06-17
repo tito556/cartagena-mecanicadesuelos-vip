@@ -1,0 +1,20 @@
+{
+  "name": "Cartagena",
+  "short_name": "Cartagena",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#2F4F4F",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "es",
+  "orientation": "portrait",
+  "scope": "/",
+  "description": "Servicios geotécnicos profesionales en Cartagena, Spain. Estudios de suelo, ensayos y consultoría técnica.",
+  "id": "/cartagena-5611"
+}

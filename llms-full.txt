@@ -1,0 +1,62 @@
+# Cartagena
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Aislacion Sismica](https://cartagena.mecanicadesuelos.vip/aislacion-sismica/)
+- [Amplificacion Sismica](https://cartagena.mecanicadesuelos.vip/amplificacion-sismica/)
+- [Asentamientos](https://cartagena.mecanicadesuelos.vip/asentamientos/)
+- [Capacidad De Carga](https://cartagena.mecanicadesuelos.vip/capacidad-de-carga/)
+- [Cimentaciones](https://cartagena.mecanicadesuelos.vip/cimentaciones/)
+- [Compactacion Dinamica](https://cartagena.mecanicadesuelos.vip/compactacion-dinamica/)
+- [Drenaje Geotecnico](https://cartagena.mecanicadesuelos.vip/drenaje-geotecnico/)
+- [Ensayo Spt](https://cartagena.mecanicadesuelos.vip/ensayo-spt/)
+- [Ensayo Triaxial](https://cartagena.mecanicadesuelos.vip/ensayo-triaxial/)
+- [Ensayos In Situ](https://cartagena.mecanicadesuelos.vip/ensayos-in-situ/)
+- [Erosion Suelos](https://cartagena.mecanicadesuelos.vip/erosion-suelos/)
+- [Estabilidad Taludes](https://cartagena.mecanicadesuelos.vip/estabilidad-taludes/)
+- [Estabilizacion Carreteras](https://cartagena.mecanicadesuelos.vip/estabilizacion-carreteras/)
+- [Estudio Mecanica Suelos](https://cartagena.mecanicadesuelos.vip/estudio-mecanica-suelos/)
+- [Evaluacion Pavimentos](https://cartagena.mecanicadesuelos.vip/evaluacion-pavimentos/)
+- [Excavaciones Profundas](https://cartagena.mecanicadesuelos.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneas](https://cartagena.mecanicadesuelos.vip/excavaciones-subterraneas/)
+- [Exploracion](https://cartagena.mecanicadesuelos.vip/exploracion/)
+- [Falla Taludes](https://cartagena.mecanicadesuelos.vip/falla-taludes/)
+- [Flujos Detritos](https://cartagena.mecanicadesuelos.vip/flujos-detritos/)
+- [Geofisica](https://cartagena.mecanicadesuelos.vip/geofisica/)
+- [Geomallas](https://cartagena.mecanicadesuelos.vip/geomallas/)
+- [Georradar Gpr](https://cartagena.mecanicadesuelos.vip/georradar-gpr/)
+- [Geotecnia Vial](https://cartagena.mecanicadesuelos.vip/geotecnia-vial/)
+- [Geotextiles](https://cartagena.mecanicadesuelos.vip/geotextiles/)
+- [Granulometria](https://cartagena.mecanicadesuelos.vip/granulometria/)
+- [Infiltracion](https://cartagena.mecanicadesuelos.vip/infiltracion/)
+- [Jet Grouting](https://cartagena.mecanicadesuelos.vip/jet-grouting/)
+- [Laboratorio](https://cartagena.mecanicadesuelos.vip/laboratorio/)
+- [Limites Atterberg](https://cartagena.mecanicadesuelos.vip/limites-atterberg/)
+- [Mejoramiento](https://cartagena.mecanicadesuelos.vip/mejoramiento/)
+- [Micropilotes](https://cartagena.mecanicadesuelos.vip/micropilotes/)
+- [Microtremores Hvsr](https://cartagena.mecanicadesuelos.vip/microtremores-hvsr/)
+- [Microzonificacion Sismica](https://cartagena.mecanicadesuelos.vip/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://cartagena.mecanicadesuelos.vip/monitoreo-excavaciones/)
+- [Monitoreo Taludes](https://cartagena.mecanicadesuelos.vip/monitoreo-taludes/)
+- [Muros Contencion](https://cartagena.mecanicadesuelos.vip/muros-contencion/)
+- [Muros Mse](https://cartagena.mecanicadesuelos.vip/muros-mse/)
+- [Muros Pantalla](https://cartagena.mecanicadesuelos.vip/muros-pantalla/)
+- [Pavimento Flexible](https://cartagena.mecanicadesuelos.vip/pavimento-flexible/)
+- [Pavimento Rigido](https://cartagena.mecanicadesuelos.vip/pavimento-rigido/)
+- [Pilotes](https://cartagena.mecanicadesuelos.vip/pilotes/)
+- [Pilotes Friccion Punta](https://cartagena.mecanicadesuelos.vip/pilotes-friccion-punta/)
+- [Pilotes Hincados](https://cartagena.mecanicadesuelos.vip/pilotes-hincados/)
+- [Precarga](https://cartagena.mecanicadesuelos.vip/precarga/)
+- [Sismica](https://cartagena.mecanicadesuelos.vip/sismica/)
+- [Subrasante Vial](https://cartagena.mecanicadesuelos.vip/subrasante-vial/)
+- [Suelos Organicos](https://cartagena.mecanicadesuelos.vip/suelos-organicos/)
+- [Suelos Residuales](https://cartagena.mecanicadesuelos.vip/suelos-residuales/)
+- [Tablestacas](https://cartagena.mecanicadesuelos.vip/tablestacas/)
+
+## Contact
+- Website: https://cartagena.mecanicadesuelos.vip/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
